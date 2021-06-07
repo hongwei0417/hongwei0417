@@ -9,7 +9,7 @@
 - Angular
 - Nodejs
 - .NET Core
-- Azure / GCP
+- GCP / Azure
 - Javascript / Typescript / C# / Python
 - mysql / mongoDB
 - Blockchain: Ethereum / Solidity
@@ -23,16 +23,16 @@
 
 ## 💻 Projects and Practices
 
-| Improving |              Project Name               |                                                 Description                                                  |                 Technique                  | Value  |
-| :-------: | :-------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :----: |
-|     ✔     |        <a href="">ImageTube</a>         |                                      <img src="" alt="😅" width="200"/>                                      | Angular / .NET Core / mysql / Azure / CICD | ⭐⭐⭐ |
-|     ✔     |  <a href="">Stock Trading Platform</a>  |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/stock-trading.png" alt="😅" width="200"/>   |       React / Nodejs / mongoDB / GCP       | ⭐⭐⭐ |
-|    ➖     |   <a href="">Travel Booking Dapp</a>    |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/hotel-booking.png" alt="😅" width="200"/>   |   Ethereum / Solidity / Provable / IPFS    |  ⭐⭐  |
-|     ✔     |           <a href="">DCT</a>            |                                      <img src="" alt="😅" width="200"/>                                      |   React / Nodejs / mysql / Gitlab / CICD   | ⭐⭐⭐ |
-|     ✔     |            <a href="">PV</a>            |                                      <img src="" alt="😅" width="200"/>                                      |   React / Nodejs / mysql / Gitlab / CICD   | ⭐⭐⭐ |
-|    ➖     | <a href="">Crowd Logistics Platform</a> | <img src="https://github.com/hongwei0417/hongwei0417/blob/main/crowd-ogistics%20.png" alt="😅" width="200"/> |    React / Nodejs / Ethereum / Solidity    |  ⭐⭐  |
-|    ➖     |          <a href="">i-Club</a>          |      <img src="https://github.com/hongwei0417/hongwei0417/blob/main/clubApp.png" alt="😅" width="200"/>      |      React Native / Redux / Firebase       | ⭐⭐⭐ |
-|    ➖     | <a href="">Video Search Application</a> |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/video-crawler.png" alt="😅" width="200"/>   |     Python / selenium / bs4 / tkinter      |   ⭐   |
+| Improving |                          Project Name                          |                                                 Description                                                  |                 Technique                  | Value  |
+| :-------: | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :----: |
+|     ✔     |  <a href="https://imagetube.azurewebsites.net/">ImageTube</a>  |                                           A photo sharing platform                                           | Angular / .NET Core / mysql / Azure / CICD | ⭐⭐⭐ |
+|     ✔     | <a href="http://dock.nchustock.ga/">Stock Trading Platform</a> |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/stock-trading.png" alt="😅" width="200"/>   |       React / Nodejs / mongoDB / GCP       | ⭐⭐⭐ |
+|    ➖     |              <a href="#">Travel Booking Dapp</a>               |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/hotel-booking.png" alt="😅" width="200"/>   |   Ethereum / Solidity / Provable / IPFS    |  ⭐⭐  |
+|     ✔     |                      <a href="#">DCT</a>                       |                            The platform provides services for repairing computers                            |   React / Nodejs / mysql / Gitlab / CICD   | ⭐⭐⭐ |
+|     ✔     |                       <a href="#">PV</a>                       |                                 Solar energy management and trading platform                                 |   React / Nodejs / mysql / Gitlab / CICD   | ⭐⭐⭐ |
+|    ➖     |            <a href="#">Crowd Logistics Platform</a>            | <img src="https://github.com/hongwei0417/hongwei0417/blob/main/crowd-ogistics%20.png" alt="😅" width="200"/> |    React / Nodejs / Ethereum / Solidity    |  ⭐⭐  |
+|    ➖     |                     <a href="#">i-Club</a>                     |      <img src="https://github.com/hongwei0417/hongwei0417/blob/main/clubApp.png" alt="😅" width="200"/>      |      React Native / Redux / Firebase       | ⭐⭐⭐ |
+|    ➖     |            <a href="#">Video Search Application</a>            |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/video-crawler.png" alt="😅" width="200"/>   |     Python / selenium / bs4 / tkinter      |   ⭐   |
 
 ## ✏ Plan Learning
 
