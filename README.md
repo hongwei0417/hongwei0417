@@ -25,16 +25,16 @@
 
 ## 💻 Projects and Practices
 
-| Status |                                  Project Name                                  |                                                 Description                                                  |                 Technique                  | Value  |
-| :----: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :----: |
-| 🔥 ✔️  |  <a href="https://imagetube.azurewebsites.net/" target="_blank">ImageTube</a>  |                                           A photo sharing platform                                           | Angular / .NET Core / mysql / Azure / CICD | ⭐⭐⭐ |
-|   ✔️   | <a href="http://dock.nchustock.ga/" target="_blank">Stock Trading Platform</a> |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/stock-trading.png" alt="😅" width="200"/>   |      React / Node.js / mongoDB / GCP       | ⭐⭐⭐ |
-|   ⌛   |                              Travel Booking Dapp                               |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/hotel-booking.png" alt="😅" width="200"/>   |   Ethereum / Solidity / Provable / IPFS    |  ⭐⭐  |
-| 🔥 ✔️  |                                      DCT                                       |                            The platform provides services for repairing computers                            |  React / Node.js / mysql / Gitlab / CICD   | ⭐⭐⭐ |
-| 🔥 ✔️  |                                       PV                                       |                                 Solar energy management and trading platform                                 |  React / Node.js / mysql / Gitlab / CICD   | ⭐⭐⭐ |
-|   ⌛   |                            Crowd Logistics Platform                            | <img src="https://github.com/hongwei0417/hongwei0417/blob/main/crowd-ogistics%20.png" alt="😅" width="200"/> |   React / Node.js / Ethereum / Solidity    |  ⭐⭐  |
-|   ⌛   |                                     i-Club                                     |      <img src="https://github.com/hongwei0417/hongwei0417/blob/main/clubApp.png" alt="😅" width="200"/>      |      React Native / Redux / Firebase       | ⭐⭐⭐ |
-|   ⌛   |                            Video Search Application                            |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/video-crawler.png" alt="😅" width="200"/>   |     Python / selenium / bs4 / tkinter      |   ⭐   |
+|  Status  |                                  Project Name                                  |                                                 Description                                                  |                 Technique                  | Value  |
+| :------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :----: |
+|  🔥 ✅   |  <a href="https://imagetube.azurewebsites.net/" target="_blank">ImageTube</a>  |                                           A photo sharing platform                                           | Angular / .NET Core / mysql / Azure / CICD | ⭐⭐⭐ |
+|    ✅    | <a href="http://dock.nchustock.ga/" target="_blank">Stock Trading Platform</a> |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/stock-trading.png" alt="😅" width="200"/>   |      React / Node.js / mongoDB / GCP       | ⭐⭐⭐ |
+|    ⌛    |                              Travel Booking Dapp                               |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/hotel-booking.png" alt="😅" width="200"/>   |   Ethereum / Solidity / Provable / IPFS    |  ⭐⭐  |
+| 🔥 ✅ 🔒 |                                      DCT                                       |                            The platform provides services for repairing computers                            |  React / Node.js / mysql / Gitlab / CICD   | ⭐⭐⭐ |
+| 🔥 ✅ 🔒 |                                       PV                                       |                                 Solar energy management and trading platform                                 |  React / Node.js / mysql / Gitlab / CICD   | ⭐⭐⭐ |
+|    ⌛    |                            Crowd Logistics Platform                            | <img src="https://github.com/hongwei0417/hongwei0417/blob/main/crowd-ogistics%20.png" alt="😅" width="200"/> |   React / Node.js / Ethereum / Solidity    |  ⭐⭐  |
+|    ⌛    |                                     i-Club                                     |      <img src="https://github.com/hongwei0417/hongwei0417/blob/main/clubApp.png" alt="😅" width="200"/>      |      React Native / Redux / Firebase       | ⭐⭐⭐ |
+|    ⌛    |                            Video Search Application                            |   <img src="https://github.com/hongwei0417/hongwei0417/blob/main/video-crawler.png" alt="😅" width="200"/>   |     Python / selenium / bs4 / tkinter      |   ⭐   |
 
 ## ✏ Learning
 
