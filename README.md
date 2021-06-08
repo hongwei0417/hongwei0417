@@ -30,7 +30,7 @@
 
 ## ✏ Plan Learning
 
-| Started |        Name        |            Description            |
-| :-----: | :----------------: | :-------------------------------: |
-|   ➖    | docker swarm / k8s | Use container management platform |
-|   ➖    |        AWS         |      Build a service on AWS       |
+| Started |             Progress              |        Name        |            Description            |
+| :-----: | :-------------------------------: | :----------------: | :-------------------------------: |
+|   ➖    | ![0%](https://progress-bar.dev/0) | docker swarm / k8s | Use container management platform |
+|   ➖    | ![0%](https://progress-bar.dev/0) |        AWS         |      Build a service on AWS       |
